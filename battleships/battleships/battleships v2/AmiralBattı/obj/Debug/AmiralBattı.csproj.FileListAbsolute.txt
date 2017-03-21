@@ -1,0 +1,41 @@
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\bin\Debug\AmiralBattı.exe.config
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\bin\Debug\AmiralBattı.exe
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\bin\Debug\AmiralBattı.pdb
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.csprojResolveAssemblyReference.cache
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.Form1.resources
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.Properties.Resources.resources
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.csproj.GenerateResource.Cache
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.exe
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.pdb
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.Form2.resources
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\bin\Debug\AmiralBattı.exe.config
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.exe
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.pdb
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\bin\Debug\AmiralBattı.exe
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\bin\Debug\AmiralBattı.pdb
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.csprojResolveAssemblyReference.cache
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.Form1.resources
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.Form2.resources
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.Properties.Resources.resources
+C:\Users\DemirBerk\Desktop\AmiralBattı\AmiralBattı\obj\Debug\AmiralBattı.csproj.GenerateResource.Cache
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\bin\Debug\AmiralBattı.exe.config
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\obj\Debug\AmiralBattı.exe
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\obj\Debug\AmiralBattı.pdb
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\bin\Debug\AmiralBattı.exe
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\bin\Debug\AmiralBattı.pdb
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\obj\Debug\AmiralBattı.csprojResolveAssemblyReference.cache
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\obj\Debug\AmiralBattı.Form1.resources
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\obj\Debug\AmiralBattı.Form2.resources
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\obj\Debug\AmiralBattı.Properties.Resources.resources
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son\AmiralBattı\obj\Debug\AmiralBattı.csproj.GenerateResource.Cache
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\bin\Debug\AmiralBattı.exe.config
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\obj\Debug\AmiralBattı.exe
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\obj\Debug\AmiralBattı.pdb
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\bin\Debug\AmiralBattı.exe
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\bin\Debug\AmiralBattı.pdb
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\obj\Debug\AmiralBattı.csprojResolveAssemblyReference.cache
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\obj\Debug\AmiralBattı.Form1.resources
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\obj\Debug\AmiralBattı.Form2.resources
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\obj\Debug\AmiralBattı.Properties.Resources.resources
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\obj\Debug\AmiralBattı.csproj.GenerateResource.Cache
+C:\Users\Doğan Akdeniz\Desktop\AmiralBattı-son2\AmiralBattı\obj\Debug\AmiralBattı.Form3.resources
